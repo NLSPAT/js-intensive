@@ -67,6 +67,8 @@
 // console.log(typeof null);  // "object" (this is a known quirk in JavaScript)
 // console.log(0.1 + 0.2 === 0.3); // false (due to floating-point precision issues)
 
-const MyName = "Meiirim";
-let MyAge = 19;
-console.log(`My name is ${MyName} my age is ${MyAge}`);
+// const MyName = "Meiirim";
+// let MyAge = 19;
+// console.log(`My name is ${MyName} my age is ${MyAge}`);
+
+Hyu = 25;
